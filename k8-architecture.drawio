@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T03:41:16.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_NRktjLjO8uAsfEVlT7H" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T02:33:27.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="iwjMKat2qi30AGqmns26" version="15.9.1" type="github">
   <diagram id="V3CfdtRdbDj_7DybPWGe" name="Page-1">
-    <mxGraphModel dx="1437" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1094" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,13 +210,13 @@
         <mxCell id="k56KaWkT5f99XN63cBPl-115" value="&lt;font color=&quot;#ff9933&quot;&gt;sync&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#666666;rotation=-25;fontStyle=1" parent="k56KaWkT5f99XN63cBPl-97" vertex="1">
           <mxGeometry x="123.49" y="39" width="44.01" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="k56KaWkT5f99XN63cBPl-118" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#666666;entryX=-0.096;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;" parent="k56KaWkT5f99XN63cBPl-97" source="k56KaWkT5f99XN63cBPl-102" target="k56KaWkT5f99XN63cBPl-115" edge="1">
+        <mxCell id="k56KaWkT5f99XN63cBPl-118" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;fontSize=13;fontColor=#666666;entryX=-0.096;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" parent="k56KaWkT5f99XN63cBPl-97" target="k56KaWkT5f99XN63cBPl-115" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="265" y="970" as="sourcePoint" />
+            <mxPoint x="94.5" y="71" as="sourcePoint" />
             <mxPoint x="379.24" y="921.5699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWbqdw70toj2yg76ASrq-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;nfs-common&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;installed&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;shadow=0;" vertex="1" parent="k56KaWkT5f99XN63cBPl-97">
+        <mxCell id="kWbqdw70toj2yg76ASrq-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;nfs client&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;installed&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;shadow=0;" vertex="1" parent="k56KaWkT5f99XN63cBPl-97">
           <mxGeometry x="9" width="83" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k56KaWkT5f99XN63cBPl-116" value="&lt;h1&gt;node3&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fontColor=#666666;align=center;" parent="k56KaWkT5f99XN63cBPl-96" vertex="1">
@@ -227,7 +227,7 @@
             <mxPoint x="1132.5" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWbqdw70toj2yg76ASrq-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;install&lt;br&gt;nfs-common&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;shadow=0;" vertex="1" parent="1">
+        <mxCell id="kWbqdw70toj2yg76ASrq-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;install&lt;br&gt;nfs client&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1232.5" y="596" width="83" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kWbqdw70toj2yg76ASrq-15" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -314,8 +314,8 @@
         <mxCell id="kWbqdw70toj2yg76ASrq-36" value="&lt;b&gt;&lt;font color=&quot;#ff9933&quot;&gt;sync&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;rotation=-25;fillColor=default;" vertex="1" parent="kWbqdw70toj2yg76ASrq-18">
           <mxGeometry x="122.5" y="29.62799344978166" width="45" height="10.314582969432314" as="geometry" />
         </mxCell>
-        <mxCell id="kWbqdw70toj2yg76ASrq-39" value="&lt;h1&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;Problem solved with using hostPath&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;- data inconsistency when pod crashes&lt;/p&gt;&lt;p&gt;- pod crashes&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Solved by:&lt;/p&gt;&lt;p&gt;- replacing hostPath system with NFS&lt;/p&gt;&lt;p&gt;- labels and constraints which is used by the system to determine which node to recreate pod on&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="60" y="158" width="471" height="392" as="geometry" />
+        <mxCell id="kWbqdw70toj2yg76ASrq-39" value="&lt;h1&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;Problem solved with using hostPath&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;- data inconsistency when pod crashes&lt;/p&gt;&lt;p&gt;- pod crashes&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Solved by:&lt;/p&gt;&lt;p&gt;- replacing hostPath system with NFS&lt;/p&gt;&lt;p&gt;- labels and constraints which is used by the system to determine which node to recreate pod on&amp;nbsp;&lt;/p&gt;&lt;p&gt;- persistentVolume&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="158" width="471" height="439" as="geometry" />
         </mxCell>
         <mxCell id="kWbqdw70toj2yg76ASrq-40" value="&lt;h1&gt;&lt;span&gt;NFS&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=25;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="75" y="22" width="119" height="95" as="geometry" />
